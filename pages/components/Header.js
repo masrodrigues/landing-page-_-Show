@@ -26,9 +26,9 @@ function Header() {
           <input 
           type="email" 
           placeholder='Email' 
-          className='rounded-xl border-white/40 bg-white/30 p-2 font-bold text-sky-900 placeholder-zinc-500 caret-pink-500 outline-pink-500 backdrop-blur-md'/>
+          className='rounded-lg border-white/40 bg-white/30 p-2 font-bold text-sky-900 placeholder-zinc-500 caret-pink-500 outline-pink-500 backdrop-blur-md'/>
           
-          <div className="cursor-pointer rounded-xl bg-pink-500 py-2 px-4 font-bold transition-colors hover:bg-sky-900 hover:shadow-lg">
+          <div className="cursor-pointer rounded-lg bg-pink-500 py-2 px-4 font-bold transition-colors hover:bg-sky-900 hover:shadow-lg">
             Inscrever-se
           </div>
         </div>

@@ -7,6 +7,9 @@ module.exports = {
   theme: {
     extend: {},
   },
-  plugins: [require('./plugins/openVariant')],
+  plugins: [
+    require('./plugins/openVariant'), 
+    require('./plugins/tableCaption'), 
+],
 }
 

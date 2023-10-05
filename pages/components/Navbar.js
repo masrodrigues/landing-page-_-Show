@@ -6,18 +6,18 @@ function Navbar() {
   return (
     <nav>
       <nav className="sticky top-0 z-10 flex bg-gradient-to-r from-rose-500 to-pink-500">
-        <div className="logo flex items-center gap-2 p-2">
+        <div className="logo flex ml-10 items-center gap-2 p-2">
           <img
-            className="logo"
-            src="/images/logo-inverted.png"
+            className="logo m-"
+            src="/images/guitar_logo.png"
             alt="site logo"
-            width="50"
+            width="70"
           />
           <div className="text-2xl font-bold">
-            tw:<span className="text-sky-900">mf</span>
+            Brasil Rock &<span className="text-sky-900"> Roll Fest</span>
           </div>
         </div>
-        <div className="hidden flex-1 items-center justify-end md:flex">
+        <div className="hidden mr-10 flex-1 items-center justify-end md:flex">
           <MenuItem
             text="Home"
             subMenus={["Ticket de 1 dia", "Ticket de 7 dias"]}
