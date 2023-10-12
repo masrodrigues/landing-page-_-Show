@@ -53,6 +53,14 @@ function Headliners() {
           date="12 de Novembro 21h - Palco principal"
         />
       </div>
+      <div className="font-bold mt-6">
+        <h3> e mais...</h3>
+        <p className="items-center">
+          Detonautas - Planet Hemp - - Humberto Gessinger - Cachorro Grande -
+          Supla - Blues Boy Band - Raimundos - Dead Fish - Fresno  Uns e Outros -
+          Biquini Cavadão - CPM 22 
+        </p>
+      </div>
     </div>
   );
 }

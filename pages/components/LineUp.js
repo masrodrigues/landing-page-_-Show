@@ -23,117 +23,117 @@ function LineUp() {
             <h4 className="my-4 rounded-lg bg-zinc-900 p-8">03 de Novembro</h4>
           </div>
           <div></div>
-          <div className='text-right'>
-            <div className="font-bold">Jackie Chaston</div>
-            <div className="text-zin-400">21 Horas - Palco Sage</div>
+          <div className="text-right">
+            <div className="font-bold">Supla</div>
+            <div className="text-zin-400">18 Horas - Palco Stage</div>
           </div>
 
           <div></div>
           <div></div>
 
           <div className="text-left">
-            <div className="font-bold">Jackie Chaston</div>
-            <div className="text-zin-400">18 Horas - Palco Sage</div>
+            <div className="font-bold">Pitty</div>
+            <div className="text-zin-400">21 Horas - Palco Principal</div>
           </div>
 
           {/* ############################################################# */}
           <div>
-            <h4 className="my-4 rounded-lg bg-zinc-900 p-8">2 de Junho</h4>
+            <h4 className="my-4 rounded-lg bg-zinc-900 p-8">04 de Novembro</h4>
           </div>
           <div></div>
 
           <div className="text-right">
-            <div className="font-bold">Jackie Chaston</div>
-            <div className="text-zin-400">18 Horas - Palco Sage</div>
+            <div className="font-bold">Cachorro Grande</div>
+            <div className="text-zin-400">18 Horas - Palco Stage</div>
           </div>
 
           <div></div>
           <div></div>
 
           <div>
-            <div className="font-bold">Jackie Chaston</div>
-            <div className="text-zin-400">21 Horas - Palco Sage</div>
+            <div className="font-bold">Paralamas do Sucesso</div>
+            <div className="text-zin-400">21 Horas - Palco Principal</div>
           </div>
           {/* ############################################################# */}
           <div>
-            <h4 className="my-4 rounded-lg bg-zinc-900 p-8">3 de Junho</h4>
+            <h4 className="my-4 rounded-lg bg-zinc-900 p-8">05 de Novembro</h4>
           </div>
           <div></div>
 
           <div className="text-right">
-            <div className="font-bold">Jackie Chaston</div>
-            <div className="text-zin-400">18 Horas - Palco Sage</div>
+            <div className="font-bold">Dead Fish</div>
+            <div className="text-zin-400">18 Horas - Palco Stage</div>
           </div>
 
           <div></div>
           <div></div>
 
           <div>
-            <div className="font-bold">Jackie Chaston</div>
-            <div className="text-zin-400">21 Horas - Palco Sage</div>
+            <div className="font-bold">Los Hermanos</div>
+            <div className="text-zin-400">21 Horas - Palco Principal</div>
           </div>
           {/* ############################################################# */}
           <div>
-            <h4 className="my-4 rounded-lg bg-zinc-900 p-8">4 de Junho</h4>
+            <h4 className="my-4 rounded-lg bg-zinc-900 p-8">09 de Novembro</h4>
           </div>
           <div></div>
 
           <div className="text-right">
-            <div className="font-bold">Jackie Chaston</div>
-            <div className="text-zin-400">18 Horas - Palco Sage</div>
+            <div className="font-bold">Humberto Gessinger</div>
+            <div className="text-zin-400">18 Horas - Palco Stage</div>
           </div>
 
           <div></div>
           <div></div>
 
           <div>
-            <div className="font-bold">Jackie Chaston</div>
-            <div className="text-zin-400">21 Horas - Palco Sage</div>
+            <div className="font-bold">Capital Inicial</div>
+            <div className="text-zin-400">21 Horas - Palco Principal</div>
           </div>
           {/* ############################################################# */}
           <div>
-            <h4 className="my-4 rounded-lg bg-zinc-900 p-8">5 de Junho</h4>
+            <h4 className="my-4 rounded-lg bg-zinc-900 p-8">10 de Novembro</h4>
           </div>
           <div></div>
 
           <div className="text-right">
-            <div className="font-bold">Jackie Chaston</div>
-            <div className="text-zin-400">18 Horas - Palco Sage</div>
+            <div className="font-bold">Detonautas</div>
+            <div className="text-zin-400">18 Horas - Palco Stage</div>
           </div>
 
           <div></div>
           <div></div>
 
           <div>
-            <div className="font-bold">Jackie Chaston</div>
-            <div className="text-zin-400">21 Horas - Palco Sage</div>
+            <div className="font-bold">Nenhum de Nós</div>
+            <div className="text-zin-400">21 Horas - Palco Principal</div>
           </div>
           {/* ############################################################# */}
           <div>
-            <h4 className="my-4 rounded-lg bg-zinc-900 p-8">6 de Junho</h4>
+            <h4 className="my-4 rounded-lg bg-zinc-900 p-8">11 de novembro</h4>
           </div>
           <div></div>
 
           <div className="text-right">
-            <div className="font-bold">Jackie Chaston</div>
-            <div className="text-zin-400">18 Horas - Palco Sage</div>
+            <div className="font-bold">CPM 22</div>
+            <div className="text-zin-400">18 Horas - Palco Stage</div>
           </div>
 
           <div></div>
           <div></div>
 
           <div>
-            <div className="font-bold">Jackie Chaston</div>
-            <div className="text-zin-400">21 Horas - Palco Sage</div>
+            <div className="font-bold">Legião Urbana</div>
+            <div className="text-zin-400">21 Horas - Palco Principal</div>
           </div>
           {/* ############################################################# */}
           <div>
-            <h4 className="my-4 rounded-lg bg-zinc-900 p-8">7 de Junho</h4>
+            <h4 className="my-4 rounded-lg bg-zinc-900 p-8">12 de Novembro</h4>
           </div>
           <div></div>
 
           <div className="text-right">
-            <div className="font-bold">Jackie Chaston</div>
+            <div className="font-bold">Fresno</div>
             <div className="text-zin-400">18 Horas - Palco Sage</div>
           </div>
 
@@ -141,8 +141,8 @@ function LineUp() {
           <div></div>
 
           <div>
-            <div className="font-bold">Jackie Chaston</div>
-            <div className="text-zin-400">21 Horas - Palco Sage</div>
+            <div className="font-bold">Titãns</div>
+            <div className="text-zin-400">21 Horas - Palco Principal</div>
           </div>
         </div>
       </div>

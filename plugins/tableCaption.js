@@ -1,12 +1,13 @@
-const plugin = require('tailwindcss/plugin');
-const tableCaption = plugin(({addUtilities}) =>{
+const plugin = require("tailwindcss/plugin");
+
+const tableCaption = plugin(({addUtilities}) => {
     addUtilities({
-        ".caption-bottom": {
-            "caption-side": "bottom",
-        },
-        ".caption-top": {
-            "caption-side": "top",
-        }
+      ".caption-bottom": {
+        "caption-side": "bottom",
+      },
+      ".caption-top": {
+        "caption-side": "top",
+      },
     });
 });
 

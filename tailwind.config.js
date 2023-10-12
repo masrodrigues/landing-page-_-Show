@@ -8,8 +8,8 @@ module.exports = {
     extend: {},
   },
   plugins: [
-    require('./plugins/openVariant'), 
-    require('./plugins/tableCaption'), 
+    require("./plugins/openVariant"), 
+    require("./plugins/tableCaption"), 
 ],
-}
+};
 
